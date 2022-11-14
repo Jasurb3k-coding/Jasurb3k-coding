@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **jasurb3k.coding@gmail.com**
 
-- ⚡ Fun fact **I don't think a language is better than the other**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasurb3kwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasurb3kwork" height="30" width="40" /></a>
