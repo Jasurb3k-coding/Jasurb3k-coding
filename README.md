@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TripGuide**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Advanced TypeScript**
 
 - 💬 Ask me about **Python, JavaScript, Django, React, Next.js**
 
